@@ -1,0 +1,8 @@
+
+RetailX Scanner - Development Notes
+
+Ideas for Improvement:
+- Add market structure filtering (no sell signals in bullish market)
+- Integrate Order Flow analysis
+- Add Options Chain & Volume Spike detection
+- Mechanical Trading System to be implemented
